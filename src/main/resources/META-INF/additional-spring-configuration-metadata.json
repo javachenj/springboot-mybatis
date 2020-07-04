@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.filters",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.filters."
+    },
+    {
+      "name": "spring.jpa.hibernate.naming_strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.naming_strategy."
+    },
+    {
+      "name": "spring.jpa.hibernate.naming_strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.naming_strategy."
+    },
+    {
+      "name": "spring.datasource.filters",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.filters."
+    }
+  ] }
